@@ -4,4 +4,4 @@
 
  ## Down load button folder use index.html as the in entrance.
 
-![](screenshot\pic1.png)
+![](screenshot/pic1.png)
